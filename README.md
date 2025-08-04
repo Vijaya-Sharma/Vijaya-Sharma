@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vijaya-Sharma
 - 👀 I’m a Data Scientist and interested in Machine Learning.
-- 🌱 I’m currently focussing on GenAi.
+- 🌱 I’m currently focussing on GenAI.
 - 💞️ I’m looking to utilize my skills and join a team of dedicated engineers innovating software and AI technologies 
 - 📫 How to reach me : www.linkedin.com/in/vijaya-sharma-5ba81b209/
 
